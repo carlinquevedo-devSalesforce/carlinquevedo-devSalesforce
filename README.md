@@ -1,4 +1,4 @@
-# 👋 Hola, soy Herminio Carlín Quevedo
+# 👋 Hola, soy Herminio 
 
 ### Salesforce Solutions Developer & Consultant
 
